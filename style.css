@@ -1,0 +1,27 @@
+header {
+	background-image: url(pictures/header-back.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 250;
+}
+
+caption {
+	caption-side: top;
+}
+
+#logo, #logo-footer {
+	width: 70px;
+	padding: 10px;
+}
+
+#btn-top {
+	position: fixed;
+	bottom: 55px;
+	right: 15px;
+}
+
+.disabled {
+	pointer-events: none;
+	cursor: default;
+}
