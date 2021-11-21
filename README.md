@@ -2,5 +2,3 @@
 
 # Portail de l'association "Va Faire Foot"
 Espace de partage pour une association sportive footballistique
-
-Ajout d'une ligne depuis Github
