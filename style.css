@@ -3,7 +3,7 @@ header {
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 250;
+	height: 25%;
 }
 
 caption {
@@ -32,4 +32,8 @@ caption {
 	top: 25%; 
 	margin-left: -150px;
 	margin-top: -150px;
+ }
+
+ .presentation {
+	 border: 1px solid gray;
  }
